@@ -72,9 +72,11 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 
 ### AI / Machine Learning
 
+<p align="left">
+
 <!-- TensorFlow -->
 <a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
 </a>
 
 <!-- PyTorch -->
@@ -84,7 +86,7 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 
 <!-- Google Colab -->
 <a href="https://colab.research.google.com/" target="_blank">
-<img src="https://colab.research.google.com/img/colaboratory.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45"/>
 </a>
 
 <!-- Hugging Face -->
@@ -92,8 +94,11 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/>
 </a>
 
-<!-- LoRA -->
-<img src="https://img.shields.io/badge/LoRA-Generative%20AI-purple?style=for-the-badge" height="30"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LoRA-Generative%20AI-purple?style=for-the-badge"/>
+</p>
 
 
 ### Web Development
