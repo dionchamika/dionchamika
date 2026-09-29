@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dion Chamika</h1>
 
 <h3 align="center">
-Cloud Computing Gold Medalist | AI Developer | AWS Cloud Enthusiast from Sri Lanka 🇱🇰
+AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 |  | AWS Cloud Enthusiast from Sri Lanka 🇱🇰
 </h3>
 
 <p align="center">
