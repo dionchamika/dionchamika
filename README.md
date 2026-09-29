@@ -72,32 +72,12 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 
 ### AI / Machine Learning
 
+<p align="left"><a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a><a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/></a><a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/></a><a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/></a><a href="https://colab.research.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="45" height="45"/></a></p>
 
-
-<!-- TensorFlow -->
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
-</a>
-
-<!-- PyTorch -->
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
-</a>
-
-<!-- Google Colab -->
-<a href="https://colab.research.google.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45"/>
-</a>
-
-<!-- Hugging Face -->
-<a href="https://huggingface.co/" target="_blank">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/>
-</a>
-
-</p>
-
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/LoRA-Generative%20AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-CNN-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-AI-green?style=for-the-badge"/>
 </p>
 
 
