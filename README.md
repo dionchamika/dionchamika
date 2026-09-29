@@ -10,7 +10,7 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
   </a>
 </p>
 
-
+---
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
