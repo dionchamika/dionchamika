@@ -18,19 +18,18 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 
 🎓 Cloud Computing Gold Medalist from **Sri Lanka Technological Campus (SLTC)**
 
-☁️ Passionate about **Cloud Infrastructure, DevOps, Artificial Intelligence, and Software Engineering**
+☁️ Passionate about **Cloud Infrastructure, Artificial Intelligence, and Software Engineering**
 
 🤖 Currently working as a **Level 2 AI Developer on Fiverr**, delivering Generative AI solutions for global clients.
 
 🚀 Experienced in:
-- AWS Cloud Services
-- Cloud Application Development
 - AI/ML Model Development
 - Generative AI Workflows
+- AWS Cloud Services & Cloud Applications
 - CI/CD Automation
 - Linux & Server Administration
 
-💡 I enjoy building scalable systems that combine **Cloud + AI + Software Engineering**.
+💡 I enjoy building scalable systems that combine **AI + Cloud  + Software Engineering**.
 
 
 ---
@@ -38,9 +37,7 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 ## 🔭 Current Work
 
 - 🤖 Generative AI Development & AI Automation
-- ☁️ AWS Cloud Infrastructure Projects
 - 🧠 Machine Learning & Deep Learning Applications
-- 🚀 Cloud-native application development
 
 ---
 
@@ -52,87 +49,7 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 - Delivered AI solutions for 60+ international clients
 
 🏆 **8th Place – CodeMania v4.0**
-- IEEE Computer Society of SLTC Algorithm Competition
-
----
-
-# 💼 Professional Experience
-
-### 🤖 AI Developer — Fiverr
-**2025 - Present**
-
-- Developed Generative AI solutions for international clients
-- Created custom LoRA models and AI workflows
-- Worked with clients from USA, Australia, and Canada
-
----
-
-### ✈️ Intern Software Developer — Airport & Aviation Services Sri Lanka
-
-- Developed features for the BIA Mobile Application
-- Integrated Flight Information Display System APIs
-- Improved internal aviation management systems
-
----
-
-### ☁️ Intern Cloud Support — SLTC Partner with CEEE Technology
-
-- Managed AWS EC2 and S3 environments
-- Maintained Linux servers
-- Implemented automated backup solutions using Rsync
-- Supported web application deployments
-
----
-
-# 🚀 Featured Projects
-
-
-## 🥦 VegSmart AI
-**AI-powered Fruit & Vegetable Classification and Recommendation System**
-
-Tech:
-```
-Python | Flask | CNN | MobileNetV2 | Sentence Transformers
-```
-
-Features:
-- Fruit & vegetable image classification
-- AI recipe recommendation engine
-- Real-time prediction under 1 second
-- Mobile-friendly web application
-
-
----
-
-## ☁️ Cloud Infrastructure Automation Project
-
-Tech:
-```
-AWS | Terraform | EC2 | S3 | RDS | GitHub Actions
-```
-
-Features:
-- Infrastructure as Code deployment
-- CI/CD pipeline automation
-- Cloud security configuration
-- Scalable AWS architecture
-
-
----
-
-## 🛒 Matr6 E-Commerce Platform
-
-Tech:
-```
-React.js | Redux | AWS | Terraform | GitHub Actions
-```
-
-Features:
-- Cloud deployment
-- Automated CI/CD pipeline
-- Responsive frontend
-- AWS infrastructure management
-
+- IEEE Computer Society of SLTC Algorithm Competition (Team - Codewhisphers)
 
 ---
 
