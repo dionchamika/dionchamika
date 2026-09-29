@@ -72,7 +72,7 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 
 ### AI / Machine Learning
 
-<p align="left">
+
 
 <!-- TensorFlow -->
 <a href="https://www.tensorflow.org/" target="_blank">
