@@ -95,8 +95,9 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 
 # 📜 Certifications
 
-- ☁️ AWS Educate Knowledge Badges
-- 🎓 CS50: Introduction to Computer Science — Harvard University
+- ☁️ AWS Educate Knowledge Badges (Databases, Cloud Operations, Security, Serverless, Storage,
+Compute, Networking, Cloud 101, AWS Deep-Racer Primer, Machine Learning, Artificial Intelligence)
+- 🎓 CS50: Introduction to Computer Science — Harvard University, United States.
 - ☁️ Oracle Cloud Certified Foundations Associate
 
 
