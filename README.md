@@ -164,5 +164,5 @@ Compute, Networking, Cloud 101, AWS Deep-Racer Primer, Machine Learning, Artific
 ---
 
 <h3 align="center">
-"Building the future with Cloud, AI and Innovation 🚀"
+Building the future with Cloud, AI and Innovation 🚀
 </h3>
