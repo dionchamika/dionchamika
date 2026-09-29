@@ -72,9 +72,28 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 
 ### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow">
-</p>
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
+</a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+</a>
+
+<!-- Google Colab -->
+<a href="https://colab.research.google.com/" target="_blank">
+<img src="https://colab.research.google.com/img/colaboratory.svg" width="45" height="45"/>
+</a>
+
+<!-- Hugging Face -->
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/>
+</a>
+
+<!-- LoRA -->
+<img src="https://img.shields.io/badge/LoRA-Generative%20AI-purple?style=for-the-badge" height="30"/>
 
 
 ### Web Development
