@@ -12,27 +12,26 @@ AI Developer 🤖 | Cloud Computing Gold Medalist 🥇 | AWS Cloud Enthusiast fr
 
 ---
 
-<div>
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-🎓 Cloud Computing Gold Medalist from Sri Lanka Technological Campus (SLTC)
+🎓 Cloud Computing Gold Medalist from **Sri Lanka Technological Campus (SLTC)**
 
-☁️ Passionate about Cloud Infrastructure, DevOps, Artificial Intelligence, and Software Engineering
+☁️ Passionate about **Cloud Infrastructure, DevOps, Artificial Intelligence, and Software Engineering**
 
-🤖 Currently working as a Level 2 AI Developer on Fiverr, delivering Generative AI solutions for global clients.
+🤖 Currently working as a **Level 2 AI Developer on Fiverr**, delivering Generative AI solutions for global clients.
 
 🚀 Experienced in:
+- AWS Cloud Services
+- Cloud Application Development
+- AI/ML Model Development
+- Generative AI Workflows
+- CI/CD Automation
+- Linux & Server Administration
 
-<ul>
-<li>AWS Cloud Services</li>
-<li>Cloud Application Development</li>
-<li>AI/ML Model Development</li>
-<li>DevOps & CI/CD</li>
-</ul>
+💡 I enjoy building scalable systems that combine **Cloud + AI + Software Engineering**.
 
-</div>
 
 ---
 
